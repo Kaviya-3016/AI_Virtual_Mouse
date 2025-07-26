@@ -1,5 +1,4 @@
-
- 🖱️ AI Virtual Mouse using Hand Gestures
+## 🖱️ AI Virtual Mouse using Hand Gestures
 
 Transform your hand gestures into mouse actions using computer vision and AI!  
 This intelligent system enables touchless control of your computer using just a webcam — ideal for accessibility solutions, smart classrooms, or futuristic computing.
