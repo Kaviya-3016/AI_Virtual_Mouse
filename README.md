@@ -76,7 +76,7 @@ A passionate engineering student exploring the intersection of AI, Computer Visi
 
 ## 📜 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [MIT License].
 
 ## ❤️ Acknowledgments
 
